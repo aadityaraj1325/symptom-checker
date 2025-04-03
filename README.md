@@ -123,5 +123,5 @@ Contributions are welcome!
 
 ## 📞 **Contact**
 For queries or collaboration:  
-- **GitHub:** [Aniket](https://github.com/aaniket21)  
-- **Email:** aniket.kr2103@gmail.com  
+- **GitHub:** [Aditya Raj](https://github.com/aadityaraj1325)  
+- **Email:** adityaraj76666@gmail.com  
